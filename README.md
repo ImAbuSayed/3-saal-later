@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/3-saal-later/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: 3 Saal Later](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/3-saal-later/) |
+| **Get License** | [Commercial Licensing for 3 Saal Later](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/3-saal-later/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `616798581ee8bde9d23ba5bbb46a2af8f94f5481bded4e8eff7fb76a3c04b498` |
 | **Timestamp** | May 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
