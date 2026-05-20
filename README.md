@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/3-saal-later/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for 3 Saal Later](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/3-saal-later/) |
+| **Get License** | [License this song: 3 Saal Later](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/3-saal-later/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tin saal baad vi takda haan tainu feeling the heat
+> Teri akhiyan da nasha lagge bittersweet
+> Main mud ke aaya haan with that stride
+> Tere nakhre di agg baale foolish pride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
